@@ -1,4 +1,3 @@
-Certainly! Here's a new assignment for a Library Management System. This project will help students practice OOP concepts in a different context. Here are the instructions and requirements:
 
 Library Management System Assignment
 
